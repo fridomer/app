@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<config>
+    <memcached>
+        <host>127.0.0.1</host>
+        <port>11211</port>
+    </memcached>
+    <mysql>
+        <host>127.0.0.1</host>
+        <user>root</user>
+        <password>root</password>
+        <db>prods</db>
+    </mysql>
+    <app>
+        <installed>0</installed>
+    </app>
+</config>

@@ -1,0 +1,14 @@
+li {
+    width: 150px;
+    height: 300px;
+    border: 1px solid #000;
+    display: inline-block;
+    margin: 5px;
+}
+.wr-div{
+    word-break: break-all;
+    white-space: normal;
+    width:100px;
+    overflow:hidden;
+    height:50px;
+}
